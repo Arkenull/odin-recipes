@@ -1,0 +1,1 @@
+This project shows that I can put headings, links, images, and paragraphs on a webpage using html. In this website there will be interactive foods that will lead users to the ingredients and the steps to make that particular food.
